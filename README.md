@@ -1,4 +1,4 @@
 # boost
 Boost C++ Library
 
-The latest version information please go to http://www.boost.org/ to obtain the Boost
+To obtain the Boost c++ library at http://www.boost.org/
